@@ -5,7 +5,7 @@ import ad5 from "../src/img/ad5.jpg";
 import ad6 from "../src/img/ad6.jpg";
 import ad7 from "../src/img/ad7.jpg";
 import ad8 from "../src/img/ad8.jpg";
-import port from "../src/img/port.png";
+import my from "../src/img/my.jpg";
 import hd1 from "../src/img/hd1.jpg";
 import hd2 from "../src/img/hd2.jpg";
 import fyp from "../src/img/fyp.png";
@@ -45,7 +45,7 @@ export const products = [
   {
     id: 6,
     img: ad7,
-    link:hd1,
+    link:my,
  
   },
 ];
