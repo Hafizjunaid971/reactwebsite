@@ -8,10 +8,12 @@ import ad8 from "../src/img/ad8.jpg";
 import port from "../src/img/port.png";
 import hd1 from "../src/img/hd1.jpg";
 import hd2 from "../src/img/hd2.jpg";
+import fyp from "../src/img/fyp.png";
 export const products = [
   {
     id: 1,
     img: hd1,
+    link: ad8,
   
   },
   
@@ -25,21 +27,25 @@ export const products = [
   {
     id: 3,
     img: ad3,
+    link:ad5,
 
   },
   {
     id: 4,
-    img: ad5,
+    img: fyp,
+    link:ad6,
    
   },
   {
     id: 5,
     img: hd2,
+    link:ad3,
    
   },
   {
     id: 6,
     img: ad7,
+    link:hd1,
  
   },
 ];
